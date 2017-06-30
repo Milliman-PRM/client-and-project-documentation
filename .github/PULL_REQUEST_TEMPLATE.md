@@ -1,4 +1,4 @@
-## New Client Set-Up Template
+## New Client Setup Template
 
  - [ ] Pull request title is "Client Setup - Client Code" (e.g. `Client Setup - 0273ABC`)
 
@@ -16,5 +16,10 @@
  - [ ] Client Screening Results
  - [ ] Client Risk Assessment
  - [ ] Conflict Check
- - [ ] A signed BAA
+ - [ ] A signed BAA (if applicable)
  - [ ] A signed DUA (if applicable, these are needed for Medicare ACOs)
+
+## Additional tasks
+
+ - [ ] Open an issue using [this template](https://indy-github.milliman.com/raw/IndyIT/PRM-Misc/master/new_client_template.md) on the [IndyIT/PRM-Misc repository](https://indy-github.milliman.com/IndyIT/PRM-Misc) to complete IT setup
+ - [ ] Once all the required documentation has been included, please @mention/assign a principal for final review and merging
