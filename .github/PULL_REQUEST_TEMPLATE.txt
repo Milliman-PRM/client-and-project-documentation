@@ -6,8 +6,8 @@
 
 ## Summary Information
 
-#### Client Name: `ABC Health System`
-#### Client Code: `0273ABC`
+**Client Name:** `ABC Health System`
+**Client Code:** `0273ABC`
 
 ## Required Documentation
  - [ ] Client folder named "Client Code - Client Name" (e.g. `0273ABC - ABC Health System`)
