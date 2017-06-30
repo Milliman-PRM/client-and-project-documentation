@@ -10,7 +10,10 @@
 **Client Code:** `0273ABC`
 
 ## Required Documentation
+
  - [ ] Client folder named "Client Code - Client Name" (e.g. `0273ABC - ABC Health System`)
  - [ ] Client Screening Results
  - [ ] Client Risk Assessment
  - [ ] Conflict Check
+ - [ ] A signed BAA
+ - [ ] A signed DUA (if applicable, these are needed for Medicare ACOs)
