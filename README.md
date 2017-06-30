@@ -1,4 +1,4 @@
-# QRM Production Documentation
+# Client and Project Documentation
 
 This repository is where client and project level documentation is captured and stored. Client level documentation will be added to a client specific folder through a pull request. Documentation for each project will be stored in a separate issue.
 
