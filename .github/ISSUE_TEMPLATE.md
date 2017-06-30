@@ -5,7 +5,9 @@
 ## Summary Information
 
 **Client Name:** `ABC Health System`
+
 **Client Code:** `0273ABC`
+
 **Project Description:** `Care Cordinator Report and Cost Model Dashboard for ABC MSSP Population`
 
 ## Check to ensure the following items are present under the client folder
