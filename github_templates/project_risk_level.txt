@@ -18,15 +18,15 @@ I am familiar with this project and client, and verify that:
 
  - The above risk assignments have been appropriately made according to the Health Discipline's Quality and Risk Management Standards; and
  - the appropriate contractual risk protections are in place
-	
-## High Risk (HR)/Sensitivity (HS) Conditions Present
+
+## High Risk (HR)/Sensitivity (HS) Conditions Present (if required)
 
 ### HR
 ### HR+
 ### HS
 ### HS+
 
-## Additional External Review
+## Additional External Review (if required)
 
 Additional external review is required for this project
 
