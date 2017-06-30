@@ -24,4 +24,5 @@
 
  - [ ] Send a copy of the contract and face sheet to the accounting specialist (currently Steve Turner: Steve.Turner@milliman.com)
  - [ ] Open an issue using [this template](https://indy-github.milliman.com/raw/IndyIT/PRM-Misc/master/new_client_template.md) on the [IndyIT/PRM-Misc repository](https://indy-github.milliman.com/IndyIT/PRM-Misc) to complete IT setup
+ - [ ] Also open an issue for the initial project setup
  - [ ] Once all the required documentation has been included, please @mention/assign a principal for final review and merging
