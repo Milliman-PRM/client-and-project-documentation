@@ -16,9 +16,9 @@
 
 ## Perform the following setup tasks
 
- - [ ] Request a project level risk assessment using [this template](https://indy-github.milliman.com/PRM/client-and-project-documentation/blob/master/github_templates/project_risk_level.txt) (must be a Principal)
+ - [ ] Request a project level risk assessment using [this template](https://indy-github.milliman.com/raw/PRM/client-and-project-documentation/master/github_templates/project_risk_level.txt) (must be a Principal)
  - [ ] Request a billing code for billing the client (currently, `0273`)
  - [ ] Request a billing code for tracking hours of staff (currently, `0009`)
  - [ ] Send a copy of the contract and face sheet to the accounting specialist (currently Steve Turner: Steve.Turner@milliman.com)
- - [ ] Open an issue using [this template](https://indy-github.milliman.com/IndyIT/PRM-Misc/blob/master/new_client_template.md) on the [IndyIT/PRM-Misc repository](https://indy-github.milliman.com/IndyIT/PRM-Misc) to complete IT setup
+ - [ ] Open an issue using [this template](https://indy-github.milliman.com/raw/IndyIT/PRM-Misc/master/new_client_template.md) on the [IndyIT/PRM-Misc repository](https://indy-github.milliman.com/IndyIT/PRM-Misc) to complete IT setup
  - [ ] Create a project repository in an appropriate home (likely [PRM-Production](https://indy-github.milliman.com/PRM-Production) or [PRM-Custom](https://indy-github.milliman.com/PRM-Custom))
