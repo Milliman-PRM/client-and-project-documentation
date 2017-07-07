@@ -2,7 +2,9 @@
 
 This repository is where client and project level documentation is captured and stored. Client level documentation will be added to a client specific folder through a pull request. Documentation for each project will be stored in a separate issue.
 
-The "code" section of this repository contains the various documentation templates and checklists.
+The "code" section of this repository contains the various documentation templates and checklists in addition to the client level documentation artifacts (e.g. Conflict Checks).
+
+Deliverable level documentation (e.g. Pre-Release Peer Review) will be captured in the [PRM-Production/qrm-documentation repository](https://indy-github.milliman.com/PRM-Production/qrm-documentation).
 
 ## Usage
 

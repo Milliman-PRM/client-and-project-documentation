@@ -1,28 +1,36 @@
 # New Client Setup Template
 
- - [ ] Pull request title is "Client Setup - Client Code" (e.g. `Client Setup - 0273ABC`)
+#### This pull request should create the appropriate folder to house the client documentation and populate it. Merges should only be performed by a Principal.
 
-#### This pull request should create the appropriate folder to house the client documentation. All items below should be included before merging. Merges should only be performed by a Principal.
+## Tasks to be completed when opening
+
+ - [ ] Pull request title is "Client Setup - Client Name" (e.g. `Client Setup - ABC Health System`)
 
 ## Summary Information
 
 **Client Name:** `ABC Health System`
 
-**Client Code:** `0273ABC`
+**Client Code:** `0273ABC` (*To be filled in once acquired below*)
+
+## Task list to work through during life of pull request
+
+ - [ ] Acquire the signed contract and face sheet from the sales staff and send to the accounting specialist to request a new client code to be setup (currently Steve Turner: Steve.Turner@milliman.com)
+ - [ ] Append the client code to the name of this pull request
+ - [ ] Fill in the new client code in the summary information section above
+ - [ ] Review the schedule of billable events setup by the accounting specialist
+ - [ ] Open an issue using [this template](https://indy-github.milliman.com/raw/IndyIT/PRM-Misc/master/new_client_template.md) on the [IndyIT/PRM-Misc repository](https://indy-github.milliman.com/IndyIT/PRM-Misc) to complete IT setup
+ - [ ] Open an issue in this repository corresponding to the initial project for this client
+ - [ ] Gather all the required documentation below
+ - [ ] @mention/assign a principal for final review and merging
 
 ## Required Documentation
 
+The documents below should be included as files in this pull request (i.e. after merging they will exist in the "code" section of this repository).
+
  - [ ] Client folder named "Client Code - Client Name" (e.g. `0273ABC - ABC Health System`)
- - [ ] Client Screening Results
- - [ ] Client Risk Assessment
- - [ ] Conflict Check
- - [ ] A signed BAA (if applicable)
- - [ ] A signed DUA (if applicable, these are needed for Medicare ACOs)
- - [ ] Signed client contract(s)
-
-## Additional tasks
-
- - [ ] Send a copy of the contract and face sheet to the accounting specialist (currently Steve Turner: Steve.Turner@milliman.com)
- - [ ] Open an issue using [this template](https://indy-github.milliman.com/raw/IndyIT/PRM-Misc/master/new_client_template.md) on the [IndyIT/PRM-Misc repository](https://indy-github.milliman.com/IndyIT/PRM-Misc) to complete IT setup
- - [ ] Also open an issue for the initial project setup
- - [ ] Once all the required documentation has been included, please @mention/assign a principal for final review and merging
+ - [ ] Client Screening Results (named `Client_Screening_0273ABC_YYYY-MM-DD`)
+ - [ ] Client Risk Assessment (named `Client_Risk_Assessment_0273ABC_YYYY-MM-DD`)
+ - [ ] Conflict Check (named `Conflict_Check_0273ABC_YYYY-MM-DD`)
+ - [ ] A signed BAA (if applicable) (named `BAA_0273ABC_YYYY-MM-DD`)
+ - [ ] A signed DUA (if applicable, these are needed for Medicare ACOs) (named `CMS_DUA_0273ABC_YYYY-MM-DD`)
+ - [ ] Signed client contract(s) (named `Contract_0273ABC_YYYY-MM-DD`)
