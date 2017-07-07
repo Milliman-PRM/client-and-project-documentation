@@ -1,6 +1,6 @@
 # New Client Setup Template
 
- - [ ] Pull request title is "Client Setup - Client Code" (e.g. `Client Setup - 0273ABC`)
+ - [ ] Pull request title is "Client Setup - Client Name" (e.g. `Client Setup - ABC Health System`)
 
 #### This pull request should create the appropriate folder to house the client documentation. All items below should be included before merging. Merges should only be performed by a Principal.
 
@@ -8,7 +8,7 @@
 
 **Client Name:** `ABC Health System`
 
-**Client Code:** `0273ABC`
+**Client Code:** `0273ABC` (*To be filled in once acquired below*)
 
 ## Required Documentation
 
@@ -23,6 +23,9 @@
 ## Additional tasks
 
  - [ ] Send a copy of the contract and face sheet to the accounting specialist (currently Steve Turner: Steve.Turner@milliman.com)
+ - [ ] Get the new client code from the accounting specialist (currently Steve Turner: Steve.Turner@milliman.com)
+ - [ ] Update the name of this pull request to use the new client code if needed
+ - [ ] Update the folder names and file names of anything being added to this repository in this pull request to include the assigned client code
  - [ ] Open an issue using [this template](https://indy-github.milliman.com/raw/IndyIT/PRM-Misc/master/new_client_template.md) on the [IndyIT/PRM-Misc repository](https://indy-github.milliman.com/IndyIT/PRM-Misc) to complete IT setup
  - [ ] Also open an issue for the initial project setup
  - [ ] Once all the required documentation has been included, please @mention/assign a principal for final review and merging
