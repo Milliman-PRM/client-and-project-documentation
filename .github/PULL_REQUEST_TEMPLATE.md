@@ -13,12 +13,12 @@
 ## Required Documentation
 
  - [ ] Client folder named "Client Code - Client Name" (e.g. `0273ABC - ABC Health System`)
- - [ ] Client Screening Results
- - [ ] Client Risk Assessment
- - [ ] Conflict Check
- - [ ] A signed BAA (if applicable)
- - [ ] A signed DUA (if applicable, these are needed for Medicare ACOs)
- - [ ] Signed client contract(s)
+ - [ ] Client Screening Results (named `Client_Screening_0273ABC_YYYY-MM-DD`)
+ - [ ] Client Risk Assessment (named `Client_Risk_Assessment_0273ABC_YYYY-MM-DD`)
+ - [ ] Conflict Check (named `Conflict_Check_0273ABC_YYYY-MM-DD`)
+ - [ ] A signed BAA (if applicable) (named `BAA_0273ABC_YYYY-MM-DD`)
+ - [ ] A signed DUA (if applicable, these are needed for Medicare ACOs) (named `CMS_DUA_0273ABC_YYYY-MM-DD`)
+ - [ ] Signed client contract(s) (named `Contract_0273ABC_YYYY-MM-DD`)
 
 ## Additional tasks
 
