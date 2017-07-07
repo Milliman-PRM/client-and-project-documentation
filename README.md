@@ -4,6 +4,8 @@ This repository is where client and project level documentation is captured and 
 
 The "code" section of this repository contains the various documentation templates and checklists.
 
+Deliverable level documentation (e.g. Pre-Release Peer Review) will be captured in the [PRM-Production/qrm-documentation repository](https://indy-github.milliman.com/PRM-Production/qrm-documentation).
+
 ## Usage
 
 #### Client Setup
