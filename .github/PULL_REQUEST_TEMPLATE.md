@@ -15,10 +15,9 @@
 ## Task list to work through during life of pull request
 
  - [ ] Acquire the signed contract and face sheet from the sales staff and send to the accounting specialist to request a new client code to be setup (currently Steve Turner: Steve.Turner@milliman.com)
- - [ ] Get the new client code from the accounting specialist
- - [ ] Review the schedule of billable events setup by the accounting specialist
  - [ ] Append the client code to the name of this pull request
  - [ ] Fill in the new client code in the summary information section above
+ - [ ] Review the schedule of billable events setup by the accounting specialist
  - [ ] Open an issue using [this template](https://indy-github.milliman.com/raw/IndyIT/PRM-Misc/master/new_client_template.md) on the [IndyIT/PRM-Misc repository](https://indy-github.milliman.com/IndyIT/PRM-Misc) to complete IT setup
  - [ ] Open an issue in this repository corresponding to the initial project for this client
  - [ ] Gather all the required documentation below
