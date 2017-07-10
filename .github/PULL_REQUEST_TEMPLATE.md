@@ -37,3 +37,4 @@ The documents below should be included as files in this pull request (i.e. after
  - [ ] A signed BAA (if applicable) (named `BAA_0273ABC_YYYY-MM-DD`)
  - [ ] A signed DUA (if applicable, these are needed for Medicare ACOs) (named `CMS_DUA_0273ABC_YYYY-MM-DD`)
  - [ ] Signed client contract(s) (named `Contract_0273ABC_YYYY-MM-DD`)
+ - [ ] Completed contract summary (named `Contract_Summary_0273ABC_YYYY-MM-DD`)
