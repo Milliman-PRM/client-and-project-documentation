@@ -25,5 +25,5 @@
  - [ ] Request a billing code from the accounting specialist to setup client billing (currently Steve Turner: Steve.Turner@milliman.com)
  - [ ] Create a ~matching billing code for tracking hours of staff (likely `0009` profit center so hours are not assumed to be billed to the client)
  - [ ] Create a project repository in an appropriate home (likely [PRM-Production](https://indy-github.milliman.com/PRM-Production) or [PRM-Custom](https://indy-github.milliman.com/PRM-Custom)) (if needed)
- - [ ] Create the standard network folders for this project using [this template](https://indy-github.milliman.com/raw/PRM/client-and-project-documentation/master/templates/3.001-ABC02)
+ - [ ] Create the standard network folders for this project using [this template](https://indy-github.milliman.com/raw/PRM/client-and-project-documentation/master/templates/3.001-0123ABC02)
  - [ ] Rename the `RENAME_TO_PROJECT_DESCRIPTION.txt` file in the root of the project network folders.
