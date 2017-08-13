@@ -1,0 +1,3 @@
+Should be mostly copies of Peer Review Approvals for routine emails.
+Peer Review Approvals for deliverables with support files should be captured on GitHub.
+It is permissable to save Peer Review Approvals for deliverables with support files here and then link to them on GitHub.
