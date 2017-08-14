@@ -15,7 +15,7 @@
 ## Task list to work through during life of pull request
 
  - [ ] Acquire the signed contract from the sales staff
- - [ ] Author contract summary document (AKA "Face Sheet") using [this template](https://indy-github.milliman.com/raw/PRM/client-and-project-documentation/master/github_templates/contract_summary.docx)
+ - [ ] Author contract summary document (AKA "Face Sheet") using [this template](https://indy-github.milliman.com/raw/PRM/client-and-project-documentation/master/templates/contract_summary.docx)
  - [ ] Send signed contract and contract summary to the accounting specialist to request a new client code to be setup (currently Steve Turner: Steve.Turner@milliman.com)
  - [ ] Append the client code to the name of this pull request
  - [ ] Fill in the new client code in the summary information section above

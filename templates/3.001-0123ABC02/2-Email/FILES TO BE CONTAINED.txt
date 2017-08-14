@@ -1,0 +1,10 @@
+Copies of relevant client emails.
+
+Mandatory:
+Include YYYY-MM-DD in the file name.
+No unanswered questions.
+Place Peer Review Approval emails into the QRM folder, not this Email folder.
+
+Preferrably:
+No risk level 3 emails.
+Only the final email of each chain.
