@@ -1,0 +1,2 @@
+Mostly a placeholder so git will let us store this example folder.
+It is anticipated this example folder would be renamed or deleted.

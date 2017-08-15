@@ -1,0 +1,2 @@
+Use the appropriate subdirectories.
+Files in this directory will be deleted.

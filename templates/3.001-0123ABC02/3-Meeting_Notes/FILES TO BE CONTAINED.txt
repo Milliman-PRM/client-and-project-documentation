@@ -1,0 +1,5 @@
+Copies of notes from meetings with the client.
+
+Mandatory:
+Include YYYY-MM-DD in the file name.
+No unanswered questions.
