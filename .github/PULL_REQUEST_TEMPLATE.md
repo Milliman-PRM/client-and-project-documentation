@@ -35,6 +35,12 @@ The documents below should be included as files in this pull request (i.e. after
  - [ ] Client Risk Assessment (named `Client_Risk_Assessment_0273ABC_YYYY-MM-DD`)
  - [ ] Conflict Check (named `Conflict_Check_0273ABC_YYYY-MM-DD`)
  - [ ] A signed BAA (if applicable) (named `BAA_0273ABC_YYYY-MM-DD`)
- - [ ] A signed DUA (if applicable, these are needed for Medicare ACOs) (named `CMS_DUA_0273ABC_YYYY-MM-DD`)
  - [ ] Signed client contract(s) (named `Contract_0273ABC_YYYY-MM-DD`)
  - [ ] Completed contract summary (named `Contract_Summary_0273ABC_YYYY-MM-DD`)
+
+## Optional Documentation
+
+The documents below can be included as files in this pull request if they are applicable (i.e. after merging they will exist in the "code" section of this repository).
+
+ - [ ] A signed DUA (named `CMS_DUA_0273ABC_YYYY-MM-DD`)
+ 
