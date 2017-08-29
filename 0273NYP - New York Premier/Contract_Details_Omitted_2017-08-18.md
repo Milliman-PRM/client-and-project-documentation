@@ -52,6 +52,8 @@ The claims-based quality metrics will be provided as an additional table with on
 
 ### Third-Party Claims Episode Grouping
 
+*NOTE: The final 2017-08-18 contract did not cover Claims Episode Grouping (e.g. MEGS)*
+
 A Third-Party Claims Episode Grouping solution can be included in the DataMart.
 
 This would be provided as an additional dimensions on the outclaims and outpharmacy tables in the DataMart and any corresponding reference tables.
