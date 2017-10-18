@@ -2,6 +2,15 @@
 
 *PLEASE DELETE THIS LINE and only include the appropriate sections below.*
 
+## Project Experience Qualification (Only for SAO, ACA filings, Medicare Advantage and State Medicaid Consulting)
+
+Name and role of consultant(s) involved in the project who are “qualified” to perform the work:
+
+## Project Financial Risk
+
+Is the project budget greater than $250,000?
+Is the negotiated budget and timeframe sufficient to complete the work (4)?
+
 ## Project Risk Level
 
 ### Risk Level 1
