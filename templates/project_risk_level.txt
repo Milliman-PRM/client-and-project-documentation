@@ -8,8 +8,8 @@ Name and role of consultant(s) involved in the project who are “qualified” t
 
 ## Project Financial Risk
 
-Is the project budget greater than $250,000?
-Is the negotiated budget and timeframe sufficient to complete the work (4)?
+ - [ ] Is the project budget greater than $250,000?
+ - [ ] Is the negotiated budget and timeframe sufficient to complete the work?
 
 ## Project Risk Level
 
