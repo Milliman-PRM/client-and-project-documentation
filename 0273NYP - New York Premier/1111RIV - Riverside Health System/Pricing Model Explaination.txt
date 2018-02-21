@@ -1,0 +1,1 @@
+Riverside has purchased quarterly ACO Insight Enhanced with monthly data feeds. The quarterly pricing model calculates the marginal cost of the ACOI Enhanced interface quarterly, and this is added to the cost of the monthly data feed in the monthly pricing model. The monthly model is the final source of truth for what should be billed.
