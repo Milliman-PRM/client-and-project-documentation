@@ -10,7 +10,7 @@
 
 **Client Name:** `ABC Health System`
 
-**Client Code:** `0273ABC` (*To be filled in once acquired below*)
+**Client Code:** `0273ABC`
 
 ## Task list to work through during life of pull request
 
