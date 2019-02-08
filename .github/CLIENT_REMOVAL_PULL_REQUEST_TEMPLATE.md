@@ -17,7 +17,7 @@
  - [ ] Acquire the notice of intent to terminate
  - [ ] Solict client feedback on reasons for termination
  - [ ] Gather all the required documentation below
- - [ ] Remove the client from MAP [MAP](https://map.milliman.com) 
+ - [ ] Remove the client from [MAP](https://map.milliman.com) 
  - [ ] Open an issue in this repository to archive the client projects using [this template](https://indy-github.milliman.com/PRM/client-and-project-documentation/master/add_client_termination_template/.github/ARCHIVE_ISSUE_TEMPLATE.md)
  - [ ] Notify billing specialist (currently Steve Turner: Steve.Turner@milliman.com) that the client has terminated and future billable events should be removed
  - [ ] Notify renewal specialist (currently David Pederson: David.Pederson@milliman.com) that the client has terminated
