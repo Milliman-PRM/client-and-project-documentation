@@ -17,7 +17,7 @@
  - [ ] Document the scope of data to be destroyed and the reason for destruction
  - [ ] Link this pull request to any relevant client removal pull request
  - [ ] Gather all the required documentation below
- - [ ] If published reports are included in the scope of data to destroy, Open an issue in the [hosting repository](https://indy-github.milliman.com/PRM/qlikview-hosting) using [this template](https://indy-github.milliman.com/raw/PRM/qlikview-hosting/master/templates/Client%20Removal%20Request.md) to request removal of any in-scope reports from the hosting infrastructure.
+ - [ ] If published reports are included in the scope of data to destroy, remove the content from [MAP](https://map.milliman.com)
  - [ ] Remove any in-scope data from network drives
  - [ ] Engage the DBA to remove any in-scope data from databases:
     - [ ] Live databases
