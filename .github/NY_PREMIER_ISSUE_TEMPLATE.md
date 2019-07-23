@@ -12,7 +12,7 @@
 
 ## Check to ensure the following items are present under the client folder
 
- - [ ] A signed purchase order (for anything beyond the basic collaborative) or e-mail notification (for basic collaborative only)
+ - [ ] A purchase order or e-mail notification
  - [ ] Verify a conflict check within last year is in the client folder in this repository (if stale, open a pull request to capture an updated conflict check)
 
 ## Perform the following setup tasks
