@@ -14,7 +14,7 @@
 
 ## Task list to work through during life of pull request
 
- - [ ] Acquire the signed contract purchase order (for non-basic collborative members) or notification e-mail (for basic only collaborative members) from the NY Health staff
+ - [ ] Acquire the purchase order or notification e-mail from the NY Health staff
  - [ ] Append the client code to the name of this pull request
  - [ ] Fill in the new client code in the summary information section above
  - [ ] Update `NYHealth_Billing_Tracking.xlsx` here: `S:\PRM\NYMilliman_Share' with the outputs of the pricing model
@@ -29,4 +29,4 @@ The documents below should be included as files in this pull request (i.e. after
 
  - [ ] Client folder named "Client Code - Client Name" (e.g. `0273ABC - ABC Health System`)
  - [ ] Conflict Check (named `Conflict_Check_0273ABC_YYYY-MM-DD`)
- - [ ] Signed client purchase order (named `Purchase_Order_0273ABC_YYYY-MM-DD`) or notification e-mail (named `1111XXX_New Premier Collaborative Member - Name_YYYY-MM-DD`)
+ - [ ] Client purchase order or notification e-mail (named `Authorization_1111XXX_YYYY-MM-DD`)
