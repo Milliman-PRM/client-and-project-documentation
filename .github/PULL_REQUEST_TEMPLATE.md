@@ -24,6 +24,7 @@
  - [ ] Open an issue in this repository corresponding to the initial project for this client
  - [ ] Gather all the required documentation below
  - [ ] Notify renewal specialist (currently David Pederson: David.Pederson@milliman.com) when this contract will be up for renewal
+ - [ ] If applicable (i.e. MAP), schedule a training once the client has access.
  - [ ] @mention/assign a principal for final review and merging
 
 ## Required Documentation
