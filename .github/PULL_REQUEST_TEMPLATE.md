@@ -24,7 +24,9 @@
  - [ ] Open an issue in this repository corresponding to the initial project for this client
  - [ ] Gather all the required documentation below
  - [ ] Notify renewal specialist (currently David Pederson: David.Pederson@milliman.com) when this contract will be up for renewal
- - [ ] If applicable (i.e. MAP), schedule a training once the client has access.
+ - [ ] If applicable (i.e. MAP), schedule a training once the client has access
+ - [ ] Start the process for including the sale in [MedInsight's Salesforce](https://medinsight.my.salesforce.com/) if applicable
+ - [ ] Wrap up the sale in [MedInsight's Salesforce](https://medinsight.my.salesforce.com/) if applicable
  - [ ] @mention/assign a principal for final review and merging
 
 ## Required Documentation
