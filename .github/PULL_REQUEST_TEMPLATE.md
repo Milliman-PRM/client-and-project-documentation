@@ -21,7 +21,7 @@
  - [ ] Append the client code to the name of this pull request
  - [ ] Fill in the new client code in the summary information section above
  - [ ] Review the schedule of billable events setup by the accounting specialist
- - [ ] **SERVICE CONTRACTS ONLY:** Open an issue using [this template](https://indy-github.milliman.com/raw/IndyIT/PRM-Misc/master/new_client_template.md) on the [IndyIT/PRM-Misc repository](https://indy-github.milliman.com/IndyIT/PRM-Misc) to complete IT setup
+ - [ ] **SERVICE CONTRACTS ONLY:** Open a [ticket](https://hd.milliman.com/support/catalog/items/217) to complete IT setup.
  - [ ] Open an issue in this repository corresponding to the initial project for this client
  - [ ] Gather all the required documentation below
  - [ ] Notify renewal specialist (currently David Pederson: David.Pederson@milliman.com) when this contract will be up for renewal
